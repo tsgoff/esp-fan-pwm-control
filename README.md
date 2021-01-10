@@ -18,3 +18,6 @@ Download [binary](https://github.com/tsgoff/esp-fan-pwm-control/releases/)
 
 
 ![fancontrol](fancontrol.png)
+
+
+Inspired by https://robotzero.one/esp8266-fan-speed-control-ds18b20-temperature-sensor/
